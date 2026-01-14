@@ -1,0 +1,1 @@
+../../../JMBoomSDKBase/JMBoomSDKBase/Core/Event/JMBoomSDKRequest/JMBoomSDKRequest+JMBoomSDKEvent.h

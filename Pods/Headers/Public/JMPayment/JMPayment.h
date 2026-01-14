@@ -1,0 +1,1 @@
+../../../JMPayment/JMPayment/Core/JMPayment.h

@@ -1,0 +1,232 @@
+PODS:
+  - HappyDNS (1.0.4)
+  - JMAttributionManager (1.1.0):
+    - JMAttributionManager/Core (= 1.1.0)
+  - JMAttributionManager/Core (1.1.0):
+    - JMAttributionManager/Source
+  - JMAttributionManager/Source (1.1.0)
+  - JMBoomAccountBusiness (2.3.25.4):
+    - JMBoomAccountBusiness/Core (= 2.3.25.4)
+  - JMBoomAccountBusiness/Core (2.3.25.4):
+    - JMBoomAccountBusiness/Mock
+    - JMBoomSDKBase
+    - JMCLManager
+  - JMBoomAccountBusiness/Mock (2.3.25.4):
+    - JMBoomSDKBase
+  - JMBoomAntiAddictionBusiness (2.3.16):
+    - JMBoomAntiAddictionBusiness/Core (= 2.3.16)
+  - JMBoomAntiAddictionBusiness/Core (2.3.16):
+    - JMBoomAntiAddictionBusiness/Mock
+    - JMBoomSDKBase
+  - JMBoomAntiAddictionBusiness/Mock (2.3.16):
+    - JMBoomSDKBase
+  - JMBoomInitializeBusiness (2.3.18.2):
+    - JMBoomInitializeBusiness/Core (= 2.3.18.2)
+  - JMBoomInitializeBusiness/Core (2.3.18.2):
+    - JMAttributionManager (~> 1.1.0)
+    - JMBoomInitializeBusiness/Mock
+    - JMBoomSDKBase
+    - JMQiYuCustomer
+  - JMBoomInitializeBusiness/Mock (2.3.18.2):
+    - JMBoomSDKBase
+  - JMBoomRealNameBusiness (2.3.17):
+    - JMBoomRealNameBusiness/Core (= 2.3.17)
+  - JMBoomRealNameBusiness/Core (2.3.17):
+    - JMBoomRealNameBusiness/Mock
+    - JMBoomSDKBase
+  - JMBoomRealNameBusiness/Mock (2.3.17):
+    - JMBoomSDKBase
+  - JMBoomRechargeBusiness (2.3.17):
+    - JMBoomRechargeBusiness/Core (= 2.3.17)
+  - JMBoomRechargeBusiness/Core (2.3.17):
+    - JMBoomRechargeBusiness/Mock
+    - JMBoomSDKBase
+    - JMPayment
+  - JMBoomRechargeBusiness/Mock (2.3.17):
+    - JMBoomSDKBase
+  - JMBoomSDK (3.0.5.1):
+    - JMBoomSDK/Core (= 3.0.5.1)
+  - JMBoomSDK/Core (3.0.5.1):
+    - JMBoomAccountBusiness (~> 2.3.0)
+    - JMBoomAntiAddictionBusiness (~> 2.3.0)
+    - JMBoomInitializeBusiness (~> 2.3.0)
+    - JMBoomRealNameBusiness (~> 2.3.0)
+    - JMBoomRechargeBusiness (~> 2.3.0)
+    - JMBoomSubmitBusiness (~> 2.3.0)
+    - JMRktCommon
+  - JMBoomSDKBase (0.9.0):
+    - JMBoomSDKBase/Core (= 0.9.0)
+    - JMBoomSDKBase/Resource (= 0.9.0)
+  - JMBoomSDKBase/Core (0.9.0):
+    - JMBoomSDKBase/Env/Debug
+    - JMBusiness
+    - JMQiYuCustomer
+    - JMRisk (= 0.1.8)
+    - JMRktCommon
+    - JMRktInfo
+    - JMRktQiniu
+    - JMRktRequest
+    - JMUIKit
+    - JMUtils
+  - JMBoomSDKBase/Env/Debug (0.9.0)
+  - JMBoomSDKBase/Resource (0.9.0):
+    - JMResource
+    - JMTheme
+    - JMUIKit
+  - JMBoomSubmitBusiness (2.3.18):
+    - JMBoomSubmitBusiness/Core (= 2.3.18)
+  - JMBoomSubmitBusiness/Core (2.3.18):
+    - JMBoomSDKBase
+    - JMBoomSubmitBusiness/Mock
+    - JMPhotos
+    - SDWebImage
+  - JMBoomSubmitBusiness/Mock (2.3.18):
+    - JMBoomSDKBase
+  - JMBusiness (0.1.8):
+    - JMBusiness/Core (= 0.1.8)
+  - JMBusiness/Core (0.1.8)
+  - JMCLManager (1.0.18)
+  - JMNetworking (1.0.12):
+    - JMNetworking/Core (= 1.0.12)
+  - JMNetworking/Core (1.0.12):
+    - JMNetworking/Source
+  - JMNetworking/Source (1.0.12)
+  - JMPayment (1.0.14):
+    - JMPayment/Core (= 1.0.14)
+  - JMPayment/Core (1.0.14):
+    - JMUtils
+  - JMPhotos (0.1.10):
+    - JMPhotos/Core (= 0.1.10)
+  - JMPhotos/Core (0.1.10):
+    - JMUIKit
+    - JMUtils
+  - JMQiYuCustomer (0.1.3):
+    - JMQiYuCustomer/Core (= 0.1.3)
+  - JMQiYuCustomer/Core (0.1.3):
+    - JMResource
+    - QY_iOS_SDK (~> 10.13.0)
+  - JMRequest (1.0.9):
+    - JMRequest/Core (= 1.0.9)
+  - JMRequest/Core (1.0.9):
+    - JMNetworking
+    - JMRequest/SourceMode
+  - JMRequest/SourceMode (1.0.9)
+  - JMResource (0.1.12):
+    - JMResource/Core (= 0.1.12)
+  - JMResource/Core (0.1.12)
+  - JMRisk (0.1.8):
+    - JMRisk/Core (= 0.1.8)
+  - JMRisk/Core (0.1.8):
+    - JMRktCommon
+    - JMUtils
+  - JMRktCommon (2.0.0):
+    - JMRktCommon/Core (= 2.0.0)
+  - JMRktCommon/Core (2.0.0):
+    - JMUIKit
+    - JMUtils
+  - JMRktInfo (0.2.1):
+    - JMRktInfo/Core (= 0.2.1)
+  - JMRktInfo/Core (0.2.1):
+    - JMUtils
+  - JMRktQiniu (0.1.7):
+    - JMRktQiniu/Core (= 0.1.7)
+  - JMRktQiniu/Core (0.1.7):
+    - JMRktCommon
+    - Qiniu (~> 8.2)
+  - JMRktRequest (0.1.6):
+    - JMRktRequest/Core (= 0.1.6)
+  - JMRktRequest/Core (0.1.6):
+    - JMNetworking
+    - JMRequest
+    - JMRktCommon
+    - JMUtils
+  - JMTheme (0.1.15):
+    - JMTheme/Core (= 0.1.15)
+  - JMTheme/Core (0.1.15)
+  - JMUIKit (0.1.19):
+    - JMUIKit/Core (= 0.1.19)
+  - JMUIKit/Core (0.1.19):
+    - JMTheme
+    - JMUtils
+  - JMUtils (2.1.19):
+    - JMUtils/Core (= 2.1.19)
+  - JMUtils/Core (2.1.19)
+  - Qiniu (8.9.2):
+    - HappyDNS (~> 1.0.4)
+  - QY_iOS_SDK (10.13.0):
+    - QY_iOS_SDK/Default (= 10.13.0)
+  - QY_iOS_SDK/Default (10.13.0)
+  - SDWebImage (5.21.5):
+    - SDWebImage/Core (= 5.21.5)
+  - SDWebImage/Core (5.21.5)
+
+DEPENDENCIES:
+  - JMBoomSDK (= 3.0.5.1)
+
+SPEC REPOS:
+  "git@gitlab-ee.jiamiantech.com:zy/architecture/ios/jiamianspecs.git":
+    - JMAttributionManager
+    - JMBoomAccountBusiness
+    - JMBoomAntiAddictionBusiness
+    - JMBoomInitializeBusiness
+    - JMBoomRealNameBusiness
+    - JMBoomRechargeBusiness
+    - JMBoomSDK
+    - JMBoomSDKBase
+    - JMBoomSubmitBusiness
+    - JMBusiness
+    - JMCLManager
+    - JMNetworking
+    - JMPayment
+    - JMPhotos
+    - JMQiYuCustomer
+    - JMRequest
+    - JMResource
+    - JMRisk
+    - JMRktCommon
+    - JMRktInfo
+    - JMRktQiniu
+    - JMRktRequest
+    - JMTheme
+    - JMUIKit
+    - JMUtils
+  trunk:
+    - HappyDNS
+    - Qiniu
+    - QY_iOS_SDK
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  HappyDNS: aefbd28cdcda93cffac64013dfe3342a2f87ed0a
+  JMAttributionManager: 859298974164831ba334434c4927275b34e78e40
+  JMBoomAccountBusiness: d5cfa4a2f1b9afb7d3a26d16ee4e9ded67a82d1a
+  JMBoomAntiAddictionBusiness: 12d4c7785674b84404f6eb736451ea36ee9e97c3
+  JMBoomInitializeBusiness: 898bacef793a30e5c0a74385ccbf6e6a5ff4acd8
+  JMBoomRealNameBusiness: 68897a979f4932d4a6158368c0a36410e530b6df
+  JMBoomRechargeBusiness: be7d3bf58010ba40986638581309b5c70e840856
+  JMBoomSDK: 7677a0089230ace093621ab67d0a31328c1b766f
+  JMBoomSDKBase: 727dc050a8334222e0d59e7da354c46e9cd3171c
+  JMBoomSubmitBusiness: 0727eb9b7005b9005da13e17b5d826aa5157701d
+  JMBusiness: fced50d027a84efae2a34aaa23e2fc52d22ebe27
+  JMCLManager: e1250b5b29b0e9d55142909ad27a3bcbb3621e4e
+  JMNetworking: 7aba78ae35816c3c331ebd47d15e4f6eadb86002
+  JMPayment: 872c4ba7679291fe94665adb7b60f618cdc076cd
+  JMPhotos: 488839d2c8f6aa9d08b464dec03c3bdeddebd165
+  JMQiYuCustomer: c44533b431845381dea2800fe5dfb1b25dc7795d
+  JMRequest: 3f40d0701915de94e9348b02557029f03344bf48
+  JMResource: 6bd42ea91832a5417f711dada74d525c44781bde
+  JMRisk: 7e5e00f161b820e24472da1f9b6999c855a309e4
+  JMRktCommon: 0d4f1fa1cba597dd21e7ab85d2aff50721000485
+  JMRktInfo: f2d5f1b56acf0cefb4eec7e46b6c8b2ea2807258
+  JMRktQiniu: f6f86ba0bd3e05c98d3f395c69a91aa849594038
+  JMRktRequest: 183a172c397714df6cf4a87204ab62eb9ca49cf4
+  JMTheme: a5f7000f0c417fa41698e0128dd90650eef3e4cc
+  JMUIKit: 6c743092d12b1a9c78cd19d680ce79623defbf38
+  JMUtils: 916a7a1e317b1537e2f58c830bf59c6e011e6847
+  Qiniu: 9a7dd4c7460d70267138a50eac15a167c0a28df0
+  QY_iOS_SDK: 4000ef4f9f16b3da145d42542014fabe5c449dc0
+  SDWebImage: e9c98383c7572d713c1a0d7dd2783b10599b9838
+
+PODFILE CHECKSUM: aaab8bc7f67168e939c8e0f1305b704e00150644
+
+COCOAPODS: 1.16.2

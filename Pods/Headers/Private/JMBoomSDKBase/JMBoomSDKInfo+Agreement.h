@@ -1,0 +1,1 @@
+../../../JMBoomSDKBase/JMBoomSDKBase/Core/Info/JMBoomSDKInfo+Agreement.h

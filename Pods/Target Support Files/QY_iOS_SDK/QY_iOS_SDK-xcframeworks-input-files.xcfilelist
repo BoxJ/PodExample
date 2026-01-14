@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/QY_iOS_SDK/QY_iOS_SDK-xcframeworks.sh
+${PODS_ROOT}/QY_iOS_SDK/SDK/QYSDK.xcframework
+${PODS_ROOT}/QY_iOS_SDK/SDK/QYKFNIMSDK.xcframework
+${PODS_ROOT}/QY_iOS_SDK/SDK/QYKFNIMNOS.xcframework

@@ -1,0 +1,1 @@
+../../../JMBoomSDK/JMBoomSDK/Core/JMBoomSDKI.h

@@ -1,0 +1,1 @@
+../../../JMBoomSDKBase/JMBoomSDKBase/Core/Base/JMBoomSDKBase.h

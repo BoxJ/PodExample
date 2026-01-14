@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-PodExample/Pods-PodExample-frameworks.sh
+${PODS_XCFRAMEWORKS_BUILD_DIR}/QY_iOS_SDK/Default/QYSDK.framework/QYSDK
+${PODS_XCFRAMEWORKS_BUILD_DIR}/QY_iOS_SDK/Default/QYKFNIMSDK.framework/QYKFNIMSDK
+${PODS_XCFRAMEWORKS_BUILD_DIR}/QY_iOS_SDK/Default/QYKFNIMNOS.framework/QYKFNIMNOS

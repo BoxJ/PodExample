@@ -4,6 +4,9 @@
 
 ## User settings
 xcuserdata/
+build/
+DerivedData
+.DS_Store
 
 ## Obj-C/Swift specific
 *.hmap

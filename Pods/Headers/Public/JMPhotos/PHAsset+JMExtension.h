@@ -1,0 +1,1 @@
+../../../JMPhotos/JMPhotos/Classes/Category/PHAsset+JMExtension.h

@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-PodExample/Pods-PodExample-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/HappyDNS/HappyDNS.privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/JMBoomSDKBase/JMBoomSDKBase.bundle
+${PODS_ROOT}/QY_iOS_SDK/SDK/Resources/QYResource.bundle
+${PODS_ROOT}/QY_iOS_SDK/SDK/Resources/QYLanguage.bundle
+${PODS_ROOT}/QY_iOS_SDK/SDK/Resources/QYCustomResource.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/Qiniu/Qiniu.privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/SDWebImage/SDWebImage.bundle

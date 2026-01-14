@@ -1,0 +1,1 @@
+../../../JMPhotos/JMPhotos/Classes/JMAssetTaker/JMAssetTaker.h

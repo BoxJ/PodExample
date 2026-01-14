@@ -1,0 +1,1 @@
+../../../JMResource/JMResource/Classes/JMResource.h

@@ -1,0 +1,1 @@
+../../../JMPhotos/JMPhotos/Classes/JMAssetCollector/JMAssetCollectorItemCell.h

@@ -1,0 +1,1 @@
+../../../JMUIKit/JMUIKit/Classes/JMAnimatedImageView/JMAnimatedImageView.h

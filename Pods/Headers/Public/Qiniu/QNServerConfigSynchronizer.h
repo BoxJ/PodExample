@@ -1,0 +1,1 @@
+../../../Qiniu/QiniuSDK/Storage/ServerConfig/QNServerConfigSynchronizer.h

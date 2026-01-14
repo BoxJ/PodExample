@@ -1,0 +1,1 @@
+../../../JMPhotos/JMPhotos/Classes/JMAssetPicker/Picker/JMPickerCameraCollectionViewCell.h

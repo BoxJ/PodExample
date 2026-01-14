@@ -1,0 +1,1 @@
+../../../JMNetworking/JMNetworking/Classes/JMURLRequestSerialization.h

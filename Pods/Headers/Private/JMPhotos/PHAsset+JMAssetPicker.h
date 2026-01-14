@@ -1,0 +1,1 @@
+../../../JMPhotos/JMPhotos/Classes/JMAssetPicker/Category/JMAssetPicker/PHAsset+JMAssetPicker.h
